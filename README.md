@@ -10,4 +10,4 @@ En este curso vemos de todo:
  * Trucos muy locos del profesor
  * Las presonalidades multiples de freddy
  
- Y como amable recordatorio: **este readme.md es un chiste ** 
+ Y como amable recordatorio: **este readme.md es un chiste** 
